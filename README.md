@@ -1,1 +1,1 @@
-First APP crated in Rails 6
+First App created in Rails 6
